@@ -18,10 +18,6 @@ This To-Do list app is developed using Android Studio, allowing users to efficie
 
 ## Installation
 
-### Requirements
-
-- Android device or emulator running Android OS (version XYZ or higher).
-
 ### Steps
 
 1. Clone the repository or download the ZIP file.
