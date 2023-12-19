@@ -34,18 +34,3 @@ This To-Do list app is developed using Android Studio, allowing users to efficie
 1. **Adding a Task**: Tap the '+' button and enter the task details to add a new task.
 
 2. **Editing a Task**: Tap on a task to modify its details.
-
-3. **Deleting a Task**: Swipe left or right on a task to delete it from the list.
-
-4. **Task Prioritization**: Assign priority levels (high, medium, low) to tasks for better organization.
-
-5. **Search Tasks**: Use the search functionality to find specific tasks quickly.
-
-## Screenshots
-![Screenshot_20231217_230544](https://github.com/nikittank/PRODIGY_AD_02/assets/91609970/e065d83e-209c-4d8a-89a2-bc30e0154685)
-
-![Screenshot_20231217_230628](https://github.com/nikittank/PRODIGY_AD_02/assets/91609970/279de1cb-ae4b-4ba3-9e70-cff4eae1ee04)
-
-![Screenshot_20231217_230640](https://github.com/nikittank/PRODIGY_AD_02/assets/91609970/d33cdb13-8843-41dd-878d-7283818f601f)
-
-![Screenshot_20231217_230701](https://github.com/nikittank/PRODIGY_AD_02/assets/91609970/b878851f-cbb2-47bf-a184-6e7ded858cbe)
